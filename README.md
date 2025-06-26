@@ -21,7 +21,7 @@ Create automated platform to visualize accurate location of myocardium scars on 
 ![image](https://user-images.githubusercontent.com/81769303/205246211-342b7dde-bd81-4976-b255-aee071bee512.png)
 
 ## Funding Opportunities
-This project has applied for funding from:     
+This project has obtained funding from:     
 - Faculty of Engineering, Cairo University
 - [Information Technology Industry Development Agency](https://www.itida.gov.eg/english/Pages/default.aspx)
 - [National Telecommunications Regulatory Authority](https://www.tra.gov.eg/en/)
