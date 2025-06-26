@@ -8,7 +8,6 @@ Create automated platform to visualize accurate location of myocardium scars on 
 #### Provide automated platform to detect, visualize and quantify accurate location of myocardium scars on 3D model of left ventricle from cardiac MR images as input
 
 ## Illustrated Description
-- Physicians in Electrophysiology department identify scars by using of an epicardial needle and measuring voltage signal of tissue to determine whether it is fibrous and signals are finally constructed as 3D electro-anatomic map as shown in previous figure which is time consuming.
 
 ![image](https://user-images.githubusercontent.com/81769303/205246052-c8908dd2-3dc5-4a1e-b0c3-c3c0883e1a5a.png)
 
