@@ -1,5 +1,4 @@
 # 3D-Visualization-of-Myocardial-Scar-Using-CMR-Automatic-Segmentation
-Under Development                   
 This is a graduation project peformed by team of four students in Healthcare Engineering Department at Cairo University in Egypt in collaboration with [Magdi Yacoub Foundation, Aswan Heart and Research Centre](https://www.myf-egypt.org/about/) under the supervision of advisors from both Cairo University and Aswan Heart Centre.
 
 ## Project Summary
